@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678488831910",
+    "project_id": "tradefunc-2a0ff",
+    "storage_bucket": "tradefunc-2a0ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678488831910:android:8b1f7451e68d624629c167",
+        "android_client_info": {
+          "package_name": "com.example.tradefunc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8PIlzr3CT9_tUSRFkA5pfRwF-AcLP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
